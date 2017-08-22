@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 126A-66A4
-
- Directory of C:\Users\IBM_ADMIN\Desktop\GIT TEST
-
-22/08/2017  09:39    <DIR>          .
-22/08/2017  09:39    <DIR>          ..
-22/08/2017  09:39                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  255,631,183,872 bytes free
+ this is first chamnge
